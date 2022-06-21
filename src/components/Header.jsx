@@ -39,32 +39,6 @@ const Header = () => {
                 </Component>
             </Toolbar>
         </NavBar>
-
-        // {/* <div className='Header'>
-        //     <div className="Header__first">
-        //         <img src="https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_8d85f4.png" alt="logo" />
-        //         <div className="Header__first1">
-        //             <span>Explore</span>
-        //             <span>Plus</span>
-        //             <span><img src="//img1a.flixcart.com/www/linchpin/fk-cp-zion/img/plus_aef861.png" alt="" /></span>
-        //         </div>
-        //     </div>
-        //     <div className="Header__second">
-        //         <input type="text" />
-        //         <SearchIcon />
-        //     </div>
-        //     <div className="Header__third">
-        //         <button>Login</button>
-        //     </div>
-        //     <div className="Header__fourth">
-        //         <span>More</span>
-        //         <ExpandMoreIcon />
-        //     </div>
-        //     <div className="Header__fifth">
-        //         <ShoppingCartIcon />
-        //         <p>Cart</p>
-        //     </div>
-        // </div> */}
     )
 }
 
